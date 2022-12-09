@@ -1,5 +1,5 @@
-const API_KEY = "AQVNzldvw-weQv4FT4HIm1aMYQ6qJzGxC09joiEk"
-const FOLDER_ID = "b1g7nus0q6mur062h1ua"
+const API_KEY = ""
+const FOLDER_ID = ""
 
 const screenshot = require('screenshot-desktop');
 const fs = require('fs');
