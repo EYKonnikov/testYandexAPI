@@ -1,4 +1,4 @@
-# CloudAPI
+# Yandex image API
 Get text from image
 
 
